@@ -1,5 +1,7 @@
 ## Advent of Code 2024
+Current Score 8/8
 
+I wanted to start learning Go and decided the AOC was a good start for it. Here you will find my start with Go and solution to the AOC
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024).
 
 ### Day 3
