@@ -4,3 +4,9 @@ This repository contains my solutions for [Advent of Code 2024](https://adventof
 
 ### Day 3
 - [Day 3 Puzzle](https://adventofcode.com/2024/day/3): My solution can be found in the `day3/` folder.
+
+
+### Day 4
+- [Day 4 Puzzle](https://adventofcode.com/2024/day/4): My solution can be found in the `day4/` folder.
+
+
