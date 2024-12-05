@@ -12,3 +12,5 @@ This repository contains my solutions for [Advent of Code 2024](https://adventof
 - [Day 4 Puzzle](https://adventofcode.com/2024/day/4): My solution can be found in the `day4/` folder.
 
 
+### Day 5
+- [Day 5 Puzzle](https://adventofcode.com/2024/day/5): My solution can be found in the `day5a/` and `day5b/` folder.
