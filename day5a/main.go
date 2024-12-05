@@ -55,7 +55,7 @@ func isValidUpdate(update []int, rules [][]string) bool {
 }
 
 func main() {
-	fileContent := utils.ReadFile("day5/input.txt")
+	fileContent := utils.ReadFile("day5a/input.txt")
 	rulesRaw, updatesRaw := parseInput(fileContent)
 
 	var validMiddlePages []int
